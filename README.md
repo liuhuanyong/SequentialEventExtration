@@ -46,7 +46,7 @@ image:游记顺承事件图谱效果图
             107354 2014.十一沈阳，本溪老边沟，枫叶大道，丹东，不走重复路，古迹，景色5日穷游 - 沈阳游记攻略【携程攻略】
             107355 库不齐老牛湾之户外行走 - 库布齐沙漠游记攻略【携程攻略】
              
-# 二  基于出行语料的顺承事件图谱构建
+# 二   基于出行语料的顺承事件图谱构建
 # 1, 顺承事件的抽取:event_extract.py, 思想步骤如下:
 1) 输入游记文本  
 2) 对游记进行长句切分  
@@ -62,20 +62,28 @@ image:游记顺承事件图谱效果图
 10)使用VIS插件进行顺承关系图谱构建与展示, event_graph.py    
 11)由于VIS作为一个封装的JS库,因此生成的顺承图谱在项目中暂时设置到500,见travel_event_graph.html  
 
-# 三 顺承关系图谱效果
+# 三   顺承关系图谱效果
 1) 总体图谱样式
+以500个顺承事件, 进行顺承事件图谱展示,结果是一张事件网络,这是一个大的顺承关系图谱,由众多小子图谱构成  
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/graph.png)
 2) 去丽江子图谱
+该子图谱围绕"去丽江旅游"这一出行事件为核心形成的事件群:
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/all.png)
 3) 飞机路线子图谱 
+该子图谱显示了选择飞机进行出行形成的事件序列 
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/plane.png)
 4) 火车路线子图谱
+该子图谱显示了选择火车进行出行形成的事件序列
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/train.png)
 5) 订酒店事件图谱
+该子图谱描述了一个"预定酒店不愉快事件",从预定到失望到总结,在这条顺承事件链表现出来
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/book.png)
 6) 做饭事件图谱
+该子图谱藐视了一个"做饭"场景下的顺承事件,感觉也很有意思
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/food.png)
 
+
+# 总结  
 
 
 
