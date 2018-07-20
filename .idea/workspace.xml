@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ccdadb-30f5-4595-9a3b-cc98f12e0102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/all.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/book.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/food.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/plane.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/train.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/travel_event_graph.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/graph.png" />
     </list>
     <ignored path="SequentialEventGraph.iws" />
     <ignored path=".idea/workspace.xml" />
