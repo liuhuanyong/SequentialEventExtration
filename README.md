@@ -63,7 +63,19 @@ image:游记顺承事件图谱效果图
 11)由于VIS作为一个封装的JS库,因此生成的顺承图谱在项目中暂时设置到500,见travel_event_graph.html  
 
 # 三 顺承关系图谱效果
-# 1 总体图谱样式
+1) 总体图谱样式
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/graph.png)
+2) 去丽江子图谱
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/all.png)
+3) 飞机路线子图谱 
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/plane.png)
+4) 火车路线子图谱
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/train.png)
+5) 订酒店事件图谱
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/book.png)
+6) 做饭事件图谱
+![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/food.png)
+
 
 
 
