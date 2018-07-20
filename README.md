@@ -1,12 +1,12 @@
 # TravelSequentialEvent
-Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集
+Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的顺承事件抽取与事件图谱构建.  
 
 # 项目来源
 目前,以谓词性短语作为事件表示的方法方兴未艾,针对特定领域,构建起特定领域的顺承事件图谱,可以支持事件推理,基于事件的意图识别与推荐等多项运用.
 本项目将从出行领域展开进行实验.
 
 # 项目构成  
-本项目由两个部分的组成,具体包括语料的获取以及基于语料的事件挖掘两个部分,具体项目目录包括:
+本项目由两个部分的组成,具体包括语料的获取以及基于语料的事件挖掘两个部分,具体项目目录包括:  
 news_spider:基于scrapy的游记采集脚本  
 event_graph:基于依存句法与顺承模式的顺承事件抽取脚
 image:游记顺承事件图谱效果图  
