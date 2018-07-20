@@ -1,5 +1,5 @@
-# TravelSequentialEvent
-Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的顺承事件抽取与事件图谱构建.  
+# EvolutionaryEventGraph
+Evolutionary Event Graph based on Travel note crawled from XieCheng，基于50W携程出行游记的顺承事件抽取与事件图谱构建.  
 
 # 项目来源
 目前,以谓词性短语作为事件表示的方法方兴未艾,针对特定领域,构建起特定领域的顺承事件图谱,可以支持事件推理,基于事件的意图识别与推荐等多项运用.
@@ -92,12 +92,4 @@ image:游记顺承事件图谱效果图
 
 
 # Question? 
-send mail to  lhy_in_blcu@126.com 
-
-
-
-
-
-
-
-
+send mail to lhy_in_blcu@126.com 
