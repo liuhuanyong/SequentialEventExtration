@@ -1,5 +1,5 @@
 # EvolutionaryEventGraph
-Evolutionary Event Graph based on Travel note crawled from XieCheng，基于50W携程出行游记的顺承事件抽取与事件图谱构建.  
+Evolutionary Event Graph based on Travel note crawled from XieCheng，基于50W携程出行攻略的顺承事件抽取与事件图谱构建.  
 
 # 项目来源
 目前,以谓词性短语作为事件表示的方法方兴未艾,针对特定领域,构建起特定领域的顺承事件图谱,可以支持事件推理,基于事件的意图识别与推荐等多项运用.
@@ -12,7 +12,7 @@ event_graph:基于依存句法与顺承模式的顺承事件抽取脚
 image:游记顺承事件图谱效果图  
 
 # 一   出行领域语料的获取
-1) 语料来源:携程出行游记  
+1) 语料来源:携程出行攻略    
 2) 时间范围:2018年7月14日之前  
 3) 采集方式:使用scrapy编写爬虫脚本进行抓取  
 4) 采集规模:共采集505767篇，量级50W　　
