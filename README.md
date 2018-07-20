@@ -1,12 +1,14 @@
 # TravelSequentialEvent
-Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集，顺承事件实验
+Sequential Event Experiment based on Travel note crawled from XieCheng，基于50W携程出行游记的采集
+
+# 项目来源
+目前,以谓词性短语作为事件表示的方法方兴未艾,针对特定领域,构建起特定领域的顺承事件图谱,可以支持事件推理,基于事件的意图识别与推荐等多项运用.
+本项目将从出行领域展开进行实验.
 
 # 项目构成  
-本项目由两个部分的组成．  
-１，出行领域语料的获取  
-２，基于出行语料的事件挖掘  
+本项目由两个部分的组成,具体包括语料的获取以及基于语料的事件挖掘两个部分
 
-# 出行领域语料的获取
+# 一   出行领域语料的获取
 1) 语料来源:携程出行游记  
 2) 时间范围:2018年7月14日之前  
 3) 采集方式:使用scrapy编写爬虫脚本进行抓取  
@@ -41,5 +43,9 @@ Sequential Event Experiment based on Travel note crawled from XieCheng，基于5
             107354 2014.十一沈阳，本溪老边沟，枫叶大道，丹东，不走重复路，古迹，景色5日穷游 - 沈阳游记攻略【携程攻略】
             107355 库不齐老牛湾之户外行走 - 库布齐沙漠游记攻略【携程攻略】
              
-# 事件挖掘
+# 基于出行语料的顺承事件图谱构建
+
+
+
+
 
