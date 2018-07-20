@@ -80,7 +80,7 @@ event_extract.py, 思想步骤如下:
 该子图谱描述了一个"预定酒店不愉快事件",从预定到失望到总结,在这条顺承事件链表现出来
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/book.png)
 # 6) 做饭事件图谱
-该子图谱藐视了一个"做饭"场景下的顺承事件,感觉也很有意思
+该子图谱表示了一个"做饭"场景下的顺承事件,感觉也很有意思
 ![image](https://github.com/liuhuanyong/SequentialEventGraph/blob/master/image/food.png)
 
 # 总结  
