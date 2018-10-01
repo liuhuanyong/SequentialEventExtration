@@ -93,4 +93,5 @@ event_extract.py, 思想步骤如下:
 
 
 # Question? 
-send mail to lhy_in_blcu@126.com 
+send mail to lhy_in_blcu@126.com   
+If any question about the project or me ,see https://liuhuanyong.github.io/
