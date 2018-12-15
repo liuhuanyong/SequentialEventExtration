@@ -92,6 +92,9 @@ event_extract.py, 思想步骤如下:
 6) 基于目前形成的顺承关系图谱还有待于进一步挖掘,可以在此基础上完成更多有价值的信息挖掘  
 
 
-# Question? 
-send mail to lhy_in_blcu@126.com   
-If any question about the project or me ,see https://liuhuanyong.github.io/
+# contact 
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，请联系我:  
+邮箱:lhy_in_blcu@126.com  
+csdn:https://blog.csdn.net/lhy2014  
+我的自然语言处理项目: https://liuhuanyong.github.io/  
+刘焕勇，中国科学院软件研究所  
